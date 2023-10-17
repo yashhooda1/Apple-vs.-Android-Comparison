@@ -1,3 +1,3 @@
-After performing hypothesis testing, we found that the p value is greater then 0.05. Therefore, we reject the null hypothesis and there is not enough evidence to prove that there is a significant difference between Apple and Android Devices. However, since the dataset is small and not as big, this may not be a complete accurate test for comparison between Apple and Android devices.
-In addition, some iPhone(s) only perform better on certain areas like Memeory or GPU, whereas Android devices can perform better in
+After performing hypothesis testing, we found that the p value is greater than 0.05. Therefore, we reject the null hypothesis and there is not enough evidence to prove that there is a significant difference between Apple and Android Devices. However, since the dataset is small and not as big, this may not be a complete accurate test for comparison between Apple and Android devices.
+In addition, some iPhone(s) only perform better on certain areas like Memory or GPU, whereas Android devices can perform better in
 other areas such as UX design. It is really up to personal preference at the end of the day.
